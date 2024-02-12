@@ -1,3 +1,6 @@
 Daftar belanja
 - Beli bawang merah
 - Beli bawang putih
+- Beli cabe merah
+- Beli cabe keriting
+
